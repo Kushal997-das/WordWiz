@@ -68,7 +68,7 @@ New vocabulary entries are added daily, so check back often to enhance your word
 | 50      | **Contentious**   | Given to arguing; likely to cause disagreement                                          | Disputable, Controversial, Polemic        |   Amiable, Genial, Pleasant, Friendly       |
 | 51 	  | **Partisan**      | Inclined to favor one side over another                                                   | Partial, Hostile, Prejudiced                         |   Neutral, Equitable             |
 | 52 	  | **Precedent**     | Going before another in time or order                                                     | Previous, Early                      |  Following, Subsequent                          |
-| 53      | **Hover**       | To rest or move along the surface of a liquid or in the air                              | Float, Sail, Loom                          | Settle, Sink                              |
+| 53      | **Hover**         | To rest or move along the surface of a liquid or in the air                              | Float, Sail, Loom                          | Settle, Sink                              |
 | 54      | **Sanguine**    | Having or showing a mind free from doubt; optimistic and positive                        | Confident, Positive, Hopeful               | Dubious, Uncertain, Skeptical             |
 | 55      | **Flare (Up)**  | To become very angry                                                                      | Snarl, Go ballistic                        | Calm Down, Relax                          |
 | 57      | **Expedite**    | To cause something to happen faster                                                        | Speed Up, Facilitate, Accelerate           | Impede, Hinder, Obstruct                  |

@@ -60,9 +60,9 @@ New vocabulary entries are added daily, so check back often to enhance your word
 | 42      | **Indignant**     | Feeling or showing anger                              | Angry, Outrage                      | Pleased, Delighted        |
 | 43      | **Bolster**       | To provide evidence or information for (as a claim)    | Reinforce, Prove                    | Undermine, Weaken         |
 | 44      | **Mar**           | To affect slightly with something morally bad or undesirable | Taint, Stain                        | Purify, Elevate           |
-| 45      | **Adverse**   | Opposed to one's interests                             | Unfavorable, Hostile                | Positive, Beneficial      |
-| 46      | **Queer**     | Different from the ordinary in a way that causes curiosity or suspicion | Strange, Bizarre                    | Normal, Ordinary          |
-| 47      | **Deterrent** | Serving to discourage, prevent, or inhibit             | Preventive, Protective              | Offensive, Aggressive     |            
+| 45      | **Adverse**       | Opposed to one's interests                             | Unfavorable, Hostile                | Positive, Beneficial      |
+| 46      | **Queer**         | Different from the ordinary in a way that causes curiosity or suspicion | Strange, Bizarre                    | Normal, Ordinary          |
+| 47      | **Deterrent**     | Serving to discourage, prevent, or inhibit             | Preventive, Protective              | Offensive, Aggressive     |            
 | 48      | **Agnostic**    | Not having or showing conviction about the existence of God                             | Skeptic, Pagan                             | Believer, Gull                            |
 | 49      | **Stride**      | A stage of progress                                                                     | Leap, Jump, Progress                       | Regression, Retreat                       |
 | 50      | **Contentious** | Given to arguing; likely to cause disagreement                                          | Disputable, Controversial, Polemic        |   Amiable, Genial, Pleasant, Friendly       |

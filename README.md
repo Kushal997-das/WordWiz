@@ -57,7 +57,7 @@ New vocabulary entries are added daily, so check back often to enhance your word
 | 39      | **Dreadful**      | Causing fear                                         | Terrifying, Horrible, Horrific      | Reassuring, Comforting    |
 | 40      | **Lapse**         | An unintentional departure from truth or accuracy      | Error, Blunder                      | Accuracy, Precision       |
 | 41      | **Grisly**        | Extremely disturbing or repellent                      | Gruesome, Horrific                  | Pleasant, Delightful     |
-| 42      | **Indignant** | Feeling or showing anger                              | Angry, Outrage                      | Pleased, Delighted        |
+| 42      | **Indignant**     | Feeling or showing anger                              | Angry, Outrage                      | Pleased, Delighted        |
 | 43      | **Bolster**   | To provide evidence or information for (as a claim)    | Reinforce, Prove                    | Undermine, Weaken         |
 | 44      | **Mar**       | To affect slightly with something morally bad or undesirable | Taint, Stain                        | Purify, Elevate           |
 | 45      | **Adverse**   | Opposed to one's interests                             | Unfavorable, Hostile                | Positive, Beneficial      |

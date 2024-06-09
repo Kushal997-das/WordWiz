@@ -54,9 +54,9 @@ New vocabulary entries are added daily, so check back often to enhance your word
 | 36      | **Outrage**       | An intense emotional state of displeasure with someone or something | Indignation, Anger                  | Pleasure, Delight         |
 | 37      | **Gauge**         | To decide the size, amount, number, or distance of something without actual measurement | Calculate, Estimate                 | Measure, Scale            |
 | 38      | **Slay**          | To deprive of life                                   | Kill, Destroy                       | Raise, Restore            |
-| 39      | **Dreadful**  | Causing fear                                         | Terrifying, Horrible, Horrific      | Reassuring, Comforting    |
-| 40      | **Lapse**     | An unintentional departure from truth or accuracy      | Error, Blunder                      | Accuracy, Precision       |
-| 41      | **Grisly**    | Extremely disturbing or repellent                      | Gruesome, Horrific                  | Pleasant, Delightful     |
+| 39      | **Dreadful**      | Causing fear                                         | Terrifying, Horrible, Horrific      | Reassuring, Comforting    |
+| 40      | **Lapse**         | An unintentional departure from truth or accuracy      | Error, Blunder                      | Accuracy, Precision       |
+| 41      | **Grisly**        | Extremely disturbing or repellent                      | Gruesome, Horrific                  | Pleasant, Delightful     |
 | 42      | **Indignant** | Feeling or showing anger                              | Angry, Outrage                      | Pleased, Delighted        |
 | 43      | **Bolster**   | To provide evidence or information for (as a claim)    | Reinforce, Prove                    | Undermine, Weaken         |
 | 44      | **Mar**       | To affect slightly with something morally bad or undesirable | Taint, Stain                        | Purify, Elevate           |

@@ -52,8 +52,8 @@ New vocabulary entries are added daily, so check back often to enhance your word
 | 34      | **Brazen**        | Displaying or marked by rude boldness                 | Impudent, Bold                      | Timid, Meek, Shy          |
 | 35      | **Garner**        | To receive as a return for effort                      | Earn, Gain, Collect                 | Lose, Give                |
 | 36      | **Outrage**       | An intense emotional state of displeasure with someone or something | Indignation, Anger                  | Pleasure, Delight         |
-| 37      | **Gauge**     | To decide the size, amount, number, or distance of something without actual measurement | Calculate, Estimate                 | Measure, Scale            |
-| 38      | **Slay**      | To deprive of life                                   | Kill, Destroy                       | Raise, Restore            |
+| 37      | **Gauge**         | To decide the size, amount, number, or distance of something without actual measurement | Calculate, Estimate                 | Measure, Scale            |
+| 38      | **Slay**          | To deprive of life                                   | Kill, Destroy                       | Raise, Restore            |
 | 39      | **Dreadful**  | Causing fear                                         | Terrifying, Horrible, Horrific      | Reassuring, Comforting    |
 | 40      | **Lapse**     | An unintentional departure from truth or accuracy      | Error, Blunder                      | Accuracy, Precision       |
 | 41      | **Grisly**    | Extremely disturbing or repellent                      | Gruesome, Horrific                  | Pleasant, Delightful     |

@@ -39,9 +39,9 @@ New vocabulary entries are added daily, so check back often to enhance your word
 | 21      | **Dormant**       | Being in a state of suspended consciousness           | Sleeping, At rest                           | Active, Alert           |
 | 22      | **Unprecedented** | Not known or experienced before                       | Novel, New, Strange, Nascent, Unusual       | Old, Familiar           |
 | 23      | **Ramification**  | Something that is produced by or necessarily follows an action or decision | Implication, Consequences, Effect           | Consideration, Factor   |
-| 24      | **Linger**           | To move or act slowly                                 | Delay, Crawl                                | Hasten, Rush            |
-| 25      | **Exuberant**        | Joyously unrestrained                                 | Cheerful, Buoyant, Ecstatic, Happy          | Sullen, Restrained      |
-| 26      | **Belie**            | To give a misleading impression of                    | Conceal, Obscure, Misrepresent              | Reveal, Expose, Betray         |
+| 24      | **Linger**        | To move or act slowly                                 | Delay, Crawl                                | Hasten, Rush            |
+| 25      | **Exuberant**     | Joyously unrestrained                                 | Cheerful, Buoyant, Ecstatic, Happy          | Sullen, Restrained      |
+| 26      | **Belie**         | To give a misleading impression of                    | Conceal, Obscure, Misrepresent              | Reveal, Expose, Betray         |
 | 27      | **Cast a dark shadow** | To spoil a good situation with something unpleasant  | Tarnish, Dampen                             | Enhance, Brighten       |
 | 28      | **Errant**           | Traveling from place to place                         | Nomadic, Peregrine, Vagabond, Ambulant      | Static, Settled         |
 | 29      | **Incendiary**       | Tending to excite political disorder or conflict       | Provocative, Inflammatory                   | Diplomatic, Peaceful    |

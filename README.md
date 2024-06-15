@@ -36,9 +36,9 @@ New vocabulary entries are added daily, so check back often to enhance your word
 | 18      | **Robust**        | Enjoying health and vigor                             | Sturdy, Strong                              | Feeble, Unfit, Feeble          |
 | 19      | **Malfeasance**   | Improper or illegal behavior                          | Misconduct, Wrongdoing                       | Legality, Compliance    |
 | 20      | **Obscure**       | Having an often intentionally veiled or uncertain meaning | Ambiguous, Cryptic, Hazy                    | Obvious, Certain        |
-| 21      | **Dormant**          | Being in a state of suspended consciousness           | Sleeping, At rest                           | Active, Alert           |
-| 22      | **Unprecedented**    | Not known or experienced before                       | Novel, New, Strange, Nascent, Unusual       | Old, Familiar           |
-| 23      | **Ramification**     | Something that is produced by or necessarily follows an action or decision | Implication, Consequences, Effect           | Consideration, Factor   |
+| 21      | **Dormant**       | Being in a state of suspended consciousness           | Sleeping, At rest                           | Active, Alert           |
+| 22      | **Unprecedented** | Not known or experienced before                       | Novel, New, Strange, Nascent, Unusual       | Old, Familiar           |
+| 23      | **Ramification**  | Something that is produced by or necessarily follows an action or decision | Implication, Consequences, Effect           | Consideration, Factor   |
 | 24      | **Linger**           | To move or act slowly                                 | Delay, Crawl                                | Hasten, Rush            |
 | 25      | **Exuberant**        | Joyously unrestrained                                 | Cheerful, Buoyant, Ecstatic, Happy          | Sullen, Restrained      |
 | 26      | **Belie**            | To give a misleading impression of                    | Conceal, Obscure, Misrepresent              | Reveal, Expose, Betray         |

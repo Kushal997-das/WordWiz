@@ -33,9 +33,9 @@ New vocabulary entries are added daily, so check back often to enhance your word
 | 15      | **Erosion**       | The process of eroding or being eroded                | Wear, Corrosion                              | Accretion, Growth       |
 | 16      | **Precursor**     | A person or thing that comes before another           | Forerunner, Predecessor, Foundation, Base   | Successor, Follower     |
 | 17      | **Scrutiny**      | A close look at or examination of someone or something in order to judge | Inspection, Audit                            | Overlook, Ignorance     |
-| 18      | **Robust**           | Enjoying health and vigor                             | Sturdy, Strong                              | Feeble, Unfit, Feeble          |
-| 19      | **Malfeasance**      | Improper or illegal behavior                          | Misconduct, Wrongdoing                       | Legality, Compliance    |
-| 20      | **Obscure**          | Having an often intentionally veiled or uncertain meaning | Ambiguous, Cryptic, Hazy                    | Obvious, Certain        |
+| 18      | **Robust**        | Enjoying health and vigor                             | Sturdy, Strong                              | Feeble, Unfit, Feeble          |
+| 19      | **Malfeasance**   | Improper or illegal behavior                          | Misconduct, Wrongdoing                       | Legality, Compliance    |
+| 20      | **Obscure**       | Having an often intentionally veiled or uncertain meaning | Ambiguous, Cryptic, Hazy                    | Obvious, Certain        |
 | 21      | **Dormant**          | Being in a state of suspended consciousness           | Sleeping, At rest                           | Active, Alert           |
 | 22      | **Unprecedented**    | Not known or experienced before                       | Novel, New, Strange, Nascent, Unusual       | Old, Familiar           |
 | 23      | **Ramification**     | Something that is produced by or necessarily follows an action or decision | Implication, Consequences, Effect           | Consideration, Factor   |

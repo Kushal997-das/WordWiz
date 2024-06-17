@@ -28,11 +28,11 @@ New vocabulary entries are added daily, so check back often to enhance your word
 | 10      | **Peripheral**    | Available to supply something extra when needed| Auxiliary, Accessory | Principal, Chief |                
 | 11      | **Ramp-Up**       | To jack (up)                                 | Step Up, Mount     | Decline(in), Lessen|        
 | 12      | **Replicate**     | To make an exact likeness of                 | Render, Imitate, Duplicate | Create, Original|                 
-| 13      | **Amid** | In the middle of or surrounded by          | During, Among | Outside, Away   |
-| 14      | **Bifurcated**       | Divided into two branches                             | Divide, Split                               | Unite, Combine          |
-| 15      | **Erosion**          | The process of eroding or being eroded                | Wear, Corrosion                              | Accretion, Growth       |
-| 16      | **Precursor**        | A person or thing that comes before another           | Forerunner, Predecessor, Foundation, Base   | Successor, Follower     |
-| 17      | **Scrutiny**         | A close look at or examination of someone or something in order to judge | Inspection, Audit                            | Overlook, Ignorance     |
+| 13      | **Amid** 	      | In the middle of or surrounded by          | During, Among | Outside, Away   |
+| 14      | **Bifurcated**    | Divided into two branches                             | Divide, Split                               | Unite, Combine          |
+| 15      | **Erosion**       | The process of eroding or being eroded                | Wear, Corrosion                              | Accretion, Growth       |
+| 16      | **Precursor**     | A person or thing that comes before another           | Forerunner, Predecessor, Foundation, Base   | Successor, Follower     |
+| 17      | **Scrutiny**      | A close look at or examination of someone or something in order to judge | Inspection, Audit                            | Overlook, Ignorance     |
 | 18      | **Robust**           | Enjoying health and vigor                             | Sturdy, Strong                              | Feeble, Unfit, Feeble          |
 | 19      | **Malfeasance**      | Improper or illegal behavior                          | Misconduct, Wrongdoing                       | Legality, Compliance    |
 | 20      | **Obscure**          | Having an often intentionally veiled or uncertain meaning | Ambiguous, Cryptic, Hazy                    | Obvious, Certain        |

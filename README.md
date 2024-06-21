@@ -136,9 +136,9 @@ New vocabulary entries are added daily, so check back often to enhance your word
 | 119 | **Probe**        | A systematic search for the truth or facts about something | Investigation, Inquiry      | Surface, Ignore                 |
 | 120 | **Loophole**     | A means of escape                                    | Evade, Crevice, Breach      | Seal, Patch                     |
 | 121 | **Punitive**     | inflicting, involving, or serving as punishment       | Correctional, Penal         | Compensatory, Vindicating        |
-| 122 | **Deterrent**| something that makes movement or progress difficult  | Obstacle, Hurdle, Hinder, Barrier | Incentive, Stimulus, Accelerate, Facilitate |
-| 123 | **Attenuated**| lessened or weakened (as in amount, force, or magnitude) | Linear, Elongated           | Wide, Broad                     |
-| 124 | **Intrigue**| A secret plan for accomplishing evil or unlawful ends | Conspiracy, Plot            | Disclosure, Openness            |
+| 122 | **Deterrent**    | something that makes movement or progress difficult  | Obstacle, Hurdle, Hinder, Barrier | Incentive, Stimulus, Accelerate, Facilitate |
+| 123 | **Attenuated**   | lessened or weakened (as in amount, force, or magnitude) | Linear, Elongated           | Wide, Broad                     |
+| 124 | **Intrigue**     | A secret plan for accomplishing evil or unlawful ends | Conspiracy, Plot            | Disclosure, Openness            |
 | 125 | **Abstain**                  | To choose not to do or have something                 | Refuse, Reject                   | Choose, Determine                 |
 | 126 | **Couch**                    | To convey inappropriate or telling terms              | Say, Express                     | Withhold                 |
 | 127 | **Propound**                 | To set before the mind for consideration               | Propose, Suggest                 | Withdraw, Suppress                |

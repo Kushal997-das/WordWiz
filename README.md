@@ -132,7 +132,7 @@ New vocabulary entries are added daily, so check back often to enhance your word
 | 115 | **Boast**        | To praise or express pride in one's own possessions or accomplishments, often to excess | Brag, Vaunt                       | Minimize, Diminish |
 | 116 | **Plague**       | To cause persistent suffering to                            | Afflict, Persecute                | Help, Aid         |
 | 117 | **Conscience**   | One's internal sense of right and wrong                     | Morality, Ethics                  | Immorality        |
-| 118 | **Abysmal** | extending far downward                               | Deep, Profound             | Surface, Superficial            |
+| 118 | **Abysmal**      | extending far downward                               | Deep, Profound             | Surface, Superficial            |
 | 119 | **Probe**   | A systematic search for the truth or facts about something | Investigation, Inquiry      | Surface, Ignore                 |
 | 120 | **Loophole**| A means of escape                                    | Evade, Crevice, Breach      | Seal, Patch                     |
 | 121 | **Punitive**| inflicting, involving, or serving as punishment       | Correctional, Penal         | Compensatory, Vindicating        |

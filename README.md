@@ -72,9 +72,9 @@ New vocabulary entries are added daily, so check back often to enhance your word
 | 54      | **Sanguine**    | Having or showing a mind free from doubt; optimistic and positive                        | Confident, Positive, Hopeful               | Dubious, Uncertain, Skeptical             |
 | 55      | **Flare (Up)**  | To become very angry                                                                      | Snarl, Go ballistic                        | Calm Down, Relax                          |
 | 57      | **Expedite**    | To cause something to happen faster                                                        | Speed Up, Facilitate, Accelerate           | Impede, Hinder, Obstruct                  |
-| 58  | **Transitory**  | Lasts only for a short time                       | Temporary, Flash                   | Eternal, Enduring        |
-| 59  | **Dampen**      | To reduce or weaken in strength or feeling        | Reduce, Diminish, Downcast, Decrease | Enhance, Augment        |
-| 60  | **Persistence** | Uninterrupted or lasting existence                 | Continuation, Endurance            | Cessation, Termination   |
+| 58      | **Transitory**  | Lasts only for a short time                       | Temporary, Flash                   | Eternal, Enduring        |
+| 59      | **Dampen**      | To reduce or weaken in strength or feeling        | Reduce, Diminish, Downcast, Decrease | Enhance, Augment        |
+| 60      | **Persistence** | Uninterrupted or lasting existence                 | Continuation, Endurance            | Cessation, Termination   |
 | 61  | **Adhere (to)** | To give steadfast support to                        | Keep (to), Stick (to or with), Cleave     | Abandon, Take Back       |
 | 62  | **Radical**   | Of the very best kind                              | Wonderful, Excellent               | Terrible, Awful          |
 | 63  | **Bleak**       | Causing or marked by an atmosphere lacking in cheer | Depressing, Somber, Gloomy, Melancholic | Bright, Cheerful      |

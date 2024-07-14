@@ -106,7 +106,7 @@ New vocabulary entries are added daily, so check back often to enhance your word
 | 89 | **Defer**         | To assign to a later time                                        | Postpone, Delay                   | Do, Act              |
 | 90 | **Precipitate**   | Acting or done with excessive or careless speed                   | Hurried, Rushed                   | Deliberate, Calculated |
 | 91 | **Vehement**      | Marked by or uttered with forcefulness                           | Emphatic, Vigorous                | Mild, Ambiguous      |
-| 92 | **Hankering**     | A strong wish for something                                      | Craving, Urge                     | Hatred, Nausea       |
+| 92 | **Hankering**      | A strong wish for something                                      | Craving, Urge                     | Hatred, Nausea       |
 | 93  | **Overshadow**    | To make dark, dim, or indistinct                     | Obscure, Blur                     | Illuminate, Lighten            |
 | 94  | **Redundant**     | Being over what is needed                             | Extra, Surplus, Superfluous       | Inadequate, Sparse, Scant, Meagre |
 | 95  | **Nuance**        | Sensibility to, awareness of, or ability to express delicate shadings | Sensitivity, Insight              | Ignorance, Stupidity            |

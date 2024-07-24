@@ -63,8 +63,8 @@ New vocabulary entries are added daily, so check back often to enhance your word
 | 45      | **Adverse**   | Opposed to one's interests                             | Unfavorable, Hostile                | Positive, Beneficial      |
 | 46      | **Queer**     | Different from the ordinary in a way that causes curiosity or suspicion | Strange, Bizarre                    | Normal, Ordinary          |
 | 47      | **Deterrent** | Serving to discourage, prevent, or inhibit             | Preventive, Protective              | Offensive, Aggressive     |            
-| 48 | **Agnostic**    | Not having or showing conviction about the existence of God                             | Skeptic, Pagan                             | Believer, Gull                            |
-| 49 | **Stride**      | A stage of progress                                                                     | Leap, Jump, Progress                       | Regression, Retreat                       |
+| 48      | **Agnostic**    | Not having or showing conviction about the existence of God                             | Skeptic, Pagan                             | Believer, Gull                            |
+| 49      | **Stride**      | A stage of progress                                                                     | Leap, Jump, Progress                       | Regression, Retreat                       |
 | 50 | **Contentious** | Given to arguing; likely to cause disagreement                                          | Disputable, Controversial, Polemic        |   Amiable, Genial, Pleasant, Friendly       |
 | 51 | **Partisan**    | Inclined to favor one side over another                                                   | Partial, Hostile, Prejudiced                         |   Neutral, Equitable             |
 | 52 | **Precedent**   | Going before another in time or order                                                     | Previous, Early                      |  Following, Subsequent                          |

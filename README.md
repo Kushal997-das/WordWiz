@@ -65,7 +65,7 @@ New vocabulary entries are added daily, so check back often to enhance your word
 | 47      | **Deterrent** | Serving to discourage, prevent, or inhibit             | Preventive, Protective              | Offensive, Aggressive     |            
 | 48      | **Agnostic**    | Not having or showing conviction about the existence of God                             | Skeptic, Pagan                             | Believer, Gull                            |
 | 49      | **Stride**      | A stage of progress                                                                     | Leap, Jump, Progress                       | Regression, Retreat                       |
-| 50 | **Contentious** | Given to arguing; likely to cause disagreement                                          | Disputable, Controversial, Polemic        |   Amiable, Genial, Pleasant, Friendly       |
+| 50      | **Contentious** | Given to arguing; likely to cause disagreement                                          | Disputable, Controversial, Polemic        |   Amiable, Genial, Pleasant, Friendly       |
 | 51 | **Partisan**    | Inclined to favor one side over another                                                   | Partial, Hostile, Prejudiced                         |   Neutral, Equitable             |
 | 52 | **Precedent**   | Going before another in time or order                                                     | Previous, Early                      |  Following, Subsequent                          |
 | 53 | **Hover**       | To rest or move along the surface of a liquid or in the air                              | Float, Sail, Loom                          | Settle, Sink                              |

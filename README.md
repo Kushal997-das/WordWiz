@@ -162,7 +162,7 @@ New vocabulary entries are added daily, so check back often to enhance your word
 | 145 | **Deferred**  	             | As in delayed                                                             | Prolonged, Sluggish, Delay, Hinder, Obstruct | Immediate, Instant         |
 | 146 | **Balloon**   		     | To become greater in extent, volume, amount, or number                   | Rise, Augment, Increase                   | Decrease, Contract           |
 | 147 | **Wrath**                    | An intense emotional state of displeasure with someone or something | Indignation, Fury        | Pleasure, Delight        |
-
+| 148 | **Dissident**                | Deviating from commonly accepted beliefs or practices              | Dissenting, Maverick     | Orthodox, Conventional   |
 
 
 

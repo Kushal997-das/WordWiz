@@ -161,7 +161,7 @@ New vocabulary entries are added daily, so check back often to enhance your word
 | 144 | **Prudence**  		     | A close attentiveness to avoiding danger                                | Carefulness, Caution                      | Recklessness, Brashness      |
 | 145 | **Deferred**  	             | As in delayed                                                             | Prolonged, Sluggish, Delay, Hinder, Obstruct | Immediate, Instant         |
 | 146 | **Balloon**   		     | To become greater in extent, volume, amount, or number                   | Rise, Augment, Increase                   | Decrease, Contract           |
-
+| 147 |
 
 
 

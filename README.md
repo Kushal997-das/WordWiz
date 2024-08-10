@@ -150,7 +150,7 @@ New vocabulary entries are added daily, so check back often to enhance your word
 | 133 | **Lure**                     | To lead away from a usual or proper course by offering some pleasure or advantage | Tempt, Seduce                    | Warn, Alert                       |
 | 134 | **Resentment**               | The feeling of being offended or resentful after a slight or indignity | Anger, Offense                    | Satisfaction, Pacification        |
 | 135 | **Onus**                     | Responsibility for wrongdoing or failure               | Blame, Guilt                     | Innocence, Blamelessness          |
-
+| 136 | **Catalyst**                 | Something that arouses action or activity              | Stimulus, Trigger                | Disincentive                 |
 
 
 

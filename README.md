@@ -167,7 +167,7 @@ New vocabulary entries are added daily, so check back often to enhance your word
 | 150 | **Ruthless**		     | Having or showing a lack of sympathy or tender feelings             | Merciless, Stony         | Sensitive, Warm          |
 | 151 | **Drum up** 		     | To create or think of by clever use of the imagination               | Devise, Construct        | Reproduce, Duplicate     |
 | 152 | **Eschew**  		     | To get or keep away from (as a responsibility) through cleverness or trickery | Avoid, Evade         | Seek, Accept             |
-
+| 153 | **Hotbed**  		     | A place or environment that favors the development of something     | Center, Mecca            | N/A                      |
 
 
 

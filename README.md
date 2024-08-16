@@ -62,16 +62,17 @@ New vocabulary entries are added daily, so check back often to enhance your word
 | 44      | **Mar**       | To affect slightly with something morally bad or undesirable | Taint, Stain                        | Purify, Elevate           |
 | 45      | **Adverse**   | Opposed to one's interests                             | Unfavorable, Hostile                | Positive, Beneficial      |
 | 46      | **Queer**     | Different from the ordinary in a way that causes curiosity or suspicion | Strange, Bizarre                    | Normal, Ordinary          |
-| 47      | **Deterrent** | Serving to discourage, prevent, or inhibit             | Preventive, Protective              | Offensive, Aggressive     |
-| 48      | **Agnostic**    | Not having or showing conviction about the existence of God                               | Believer, Gull                         | Skeptic, Pagan                           |
-| 49      | **Stride**      | A stage of progress                                                                         | Regression, Retreat                   | Leap, Jump, Progress                    |
-| 50      | **Contentious** | Given to arguing; likely to cause disagreement                                            | Amiable, Genial, Pleasant, Friendly     | Disputable, Controversial, Polemic       |
-| 51      | **Partisan**    | Inclined to favor one side over another                                                     | Neutral, Equitable                     | Partial, Hostile, Prejudiced             |
-| 52      | **Precedent**   | Going before another in time or order                                                       | Following, Subsequent                 | Previous, Early                          |
-| 53      | **Hover**       | To rest or move along the surface of a liquid or in the air                                | Settle, Sink                           | Float, Sail, Loom                        |
-| 54      | **Sanguine**    | Having or showing a mind free from doubt; optimistic and positive                          | Dubious, Uncertain, Skeptical         | Confident, Positive, Hopeful             |
-| 55      | **Flare (Up)**  | To become very angry                                                                        | Calm Down, Relax                       | Snarl, Go ballistic                      |
-| 57      | **Expedite**    | To cause something to happen faster                                                          | Impede, Hinder, Obstruct               | Speed Up, Facilitate, Accelerate         |  |
+| 47      | **Deterrent** | Serving to discourage, prevent, or inhibit             | Preventive, Protective              | Offensive, Aggressive     |            
+| 48 | **Agnostic**    | Not having or showing conviction about the existence of God                             | Skeptic, Pagan                             | Believer, Gull                            |
+| 49 | **Stride**      | A stage of progress                                                                     | Leap, Jump, Progress                       | Regression, Retreat                       |
+| 50 | **Contentious** | Given to arguing; likely to cause disagreement                                          | Amiable, Genial, Pleasant, Friendly        | Disputable, Controversial, Polemic        |
+| 51 | **Partisan**    | Inclined to favor one side over another                                                   | Neutral, Equitable                         | Partial, Hostile, Prejudiced              |
+| 52 | **Precedent**   | Going before another in time or order                                                     | Following, Subsequent                      | Previous, Early                           |
+| 53 | **Hover**       | To rest or move along the surface of a liquid or in the air                              | Float, Sail, Loom                          | Settle, Sink                              |
+| 54 | **Sanguine**    | Having or showing a mind free from doubt; optimistic and positive                        | Confident, Positive, Hopeful               | Dubious, Uncertain, Skeptical             |
+| 55 | **Flare (Up)**  | To become very angry                                                                      | Snarl, Go ballistic                        | Calm Down, Relax                          |
+| 57 | **Expedite**    | To cause something to happen faster                                                        | Speed Up, Facilitate, Accelerate           | Impede, Hinder, Obstruct                  |
+
 
 
 

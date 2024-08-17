@@ -75,7 +75,7 @@ New vocabulary entries are added daily, so check back often to enhance your word
 | 58  | Transitory  | Lasts only for a short time                       | Temporary, Flash                   | Eternal, Enduring        |
 | 59  | Dampen      | To reduce or weaken in strength or feeling        | Reduce, Diminish, Downcast, Decrease | Enhance, Augment        |
 | 60  | Persistence | Uninterrupted or lasting existence                 | Continuation, Endurance            | Cessation, Termination   |
-| 61  | Adhere (to) | To give steadfast support to                        | Keep (to), Stick (to or with)     | Abandon, Take Back       |
+| 61  | Adhere (to) | To give steadfast support to                        | Keep (to), Stick (to or with), Cleave     | Abandon, Take Back       |
 | 62  | Radical     | Of the very best kind                              | Wonderful, Excellent               | Terrible, Awful          |
 | 63  | Bleak       | Causing or marked by an atmosphere lacking in cheer | Depressing, Somber, Gloomy, Melancholic | Bright, Cheerful      |
 | 64  | Nudge       | To try to persuade someone through earnest appeals to follow a course of action | Urge, Encourage                  | Deter, Discourage, Hinder, Obstruct, Impede |

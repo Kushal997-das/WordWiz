@@ -85,6 +85,15 @@ New vocabulary entries are added daily, so check back often to enhance your word
 | 68  | Imperil     | To place in danger                                | Endanger, Threaten                 | Protect, Preserve        |
 | 69  | Chronic     | Being such by habit and not likely to change      | Persistent, Habitual               | Occasional, Intermittent |
 | 70  | Eloquent    | Fluent or persuasive in speaking or writing       | Articulate, Expressive, Persuasive | Inarticulate, Mute       |
+| 71 | Carved (out) | To produce or bring about especially by long or repeated effort         | Developed, Crafted     | Tore down, Destroyed |
+| 72 | Emanate      | To throw or give off                                                      | Emit, Radiate          | Absorb, Take up      |
+| 73 | Electorate   | The body of people qualified to vote in an election                       | Voters, Electors       | Non-voters, Disenfranchised, Apathetic individuals |
+| 74 | Insurgency   | Open fighting against authority (such as one's own government)             | Insurrection, Revolt   | Counterrevolution    |
+| 75 | Discontent   | Having a feeling that one has been wronged or thwarted in one's ambitions | Dissatisfied, Frustrated | Content, Joyous      |
+| 76 | Incumbency   | Something one must do because of a prior agreement                         | Obligation, Duty        | Grace, Relief        |
+| 77 | Disarray     | A state in which everything is out of order                               | Havoc, Chaos            | Order, System        |
+| 78 | Garner       | To receive as a return for effort                                        | Earn, Gain              | Lose, Give           |
+
 
 
 

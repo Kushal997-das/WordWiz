@@ -93,6 +93,20 @@ New vocabulary entries are added daily, so check back often to enhance your word
 | 76 | Incumbency   | Something one must do because of a prior agreement                         | Obligation, Duty        | Grace, Relief        |
 | 77 | Disarray     | A state in which everything is out of order                               | Havoc, Chaos            | Order, System        |
 | 78 | Garner       | To receive as a return for effort                                        | Earn, Gain              | Lose, Give           |
+| 79 | Upheaval      | A violent disturbance (as of the political or social order)     | Revolution, Turmoil, Chaos, Mutiny | Grace, Relief        |
+| 80 | Vacuum        | A large empty space                                              | Void, Gap                         | Abundance, Completeness |
+| 81 | Instrumental  | Serving as a crucial means, agent, or tool                       | Essential, Fundamental, Pivotal   | Minor, Trivial       |
+| 82 | Mitigate      | To make more bearable or less severe                             | Alleviate, Relieve, Soothe        | Harm, Impair         |
+| 83 | Unduly        | Beyond a normal or acceptable limit                              | Overly, Excessively               | Moderately, Adequately|
+| 84 | Breach        | A breaking of a moral or legal code                              | Violation, Offense                | Morality, Virtue     |
+| 85 | Explicitly    | So clearly expressed as to leave no doubt about the meaning      | Specific, Express                 | Implicit, Inferred   |
+| 86 | Recourse      | Something that one uses to accomplish an end, especially when the usual means is not available | Opportunity, Resource             | Obstacle, Hindrance  |
+| 87 | Threshold     | An interval of time just before the onset of something           | Verge, Brink                      | Conclusion, End      |
+| 88 | Thrive        | To reach a desired level of accomplishment                       | Flourish, Prosper                 | Fail, Struggle       |
+| 89 | Defer         | To assign to a later time                                        | Postpone, Delay                   | Do, Act              |
+| 90 | Precipitate   | Acting or done with excessive or careless speed                   | Hurried, Rushed                   | Deliberate, Calculated |
+| 91 | Vehement      | Marked by or uttered with forcefulness                           | Emphatic, Vigorous                | Mild, Ambiguous      |
+| 92 | Hankering     | A strong wish for something                                      | Craving, Urge                     | Hatred, Nausea       |
 
 
 

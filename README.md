@@ -107,6 +107,20 @@ New vocabulary entries are added daily, so check back often to enhance your word
 | 90 | Precipitate   | Acting or done with excessive or careless speed                   | Hurried, Rushed                   | Deliberate, Calculated |
 | 91 | Vehement      | Marked by or uttered with forcefulness                           | Emphatic, Vigorous                | Mild, Ambiguous      |
 | 92 | Hankering     | A strong wish for something                                      | Craving, Urge                     | Hatred, Nausea       |
+| 93  | Overshadow    | To make dark, dim, or indistinct                     | Obscure, Blur                     | Illuminate, Lighten            |
+| 94  | Redundant     | Being over what is needed                             | Extra, Surplus, Superfluous       | Inadequate, Sparse, Scant, Meagre |
+| 95  | Nuance        | Sensibility to, awareness of, or ability to express delicate shadings | Sensitivity, Insight              | Ignorance, Stupidity            |
+| 96  | Stagnant      | Not flowing or moving                                | Frozen, Motionless                | Mobile, Moving, Mobility        |
+| 97  | Endure        | To put up with (something painful or difficult)      | Tolerate, Stand                   | Refuse, Reject                  |
+| 98  | Mobility      | Ability or capacity to move                          | Locomotion, Motility              | Inertia, Cessation              |
+| 99  | Platitude     | An idea or expression that has been used by many people | Cliché, Truism                    | Profundity                      |
+| 100 | Peddle        | To sell from place to place usually in small quantities | Peddle, Hawk, Distribute          | Buy, Purchase, Hoard            |
+| 101 | Regressive    | Decreasing in rate as the base increases             | Decremental, Degressive           | Cumulative, Additive            |
+| 102 | Drastic       | Extreme in effect or action                          | Drastic, Severe                   | Moderate, Mild                 |
+| 103 | Extrapolation  | To form an opinion or reach a conclusion through reasoning and information | Derive, Conclusion, Decide, Decision | Guess, Speculation             |
+| 104 | Dictum        | A statement or well-known remark that expresses an important idea, observation, or opinion | Principle, Doctrine               | Misconception, Fallacy          |
+| 105 | Stringent     | Not allowing for any exceptions or loosening of standards | Strict, Rigorous                 | Lax, Flexible                   |
+
 
 
 

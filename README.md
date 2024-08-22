@@ -72,54 +72,67 @@ New vocabulary entries are added daily, so check back often to enhance your word
 | 54 | **Sanguine**    | Having or showing a mind free from doubt; optimistic and positive                        | Confident, Positive, Hopeful               | Dubious, Uncertain, Skeptical             |
 | 55 | **Flare (Up)**  | To become very angry                                                                      | Snarl, Go ballistic                        | Calm Down, Relax                          |
 | 57 | **Expedite**    | To cause something to happen faster                                                        | Speed Up, Facilitate, Accelerate           | Impede, Hinder, Obstruct                  |
-| 58  | Transitory  | Lasts only for a short time                       | Temporary, Flash                   | Eternal, Enduring        |
-| 59  | Dampen      | To reduce or weaken in strength or feeling        | Reduce, Diminish, Downcast, Decrease | Enhance, Augment        |
-| 60  | Persistence | Uninterrupted or lasting existence                 | Continuation, Endurance            | Cessation, Termination   |
-| 61  | Adhere (to) | To give steadfast support to                        | Keep (to), Stick (to or with), Cleave     | Abandon, Take Back       |
-| 62  | Radical     | Of the very best kind                              | Wonderful, Excellent               | Terrible, Awful          |
-| 63  | Bleak       | Causing or marked by an atmosphere lacking in cheer | Depressing, Somber, Gloomy, Melancholic | Bright, Cheerful      |
-| 64  | Nudge       | To try to persuade someone through earnest appeals to follow a course of action | Urge, Encourage                  | Deter, Discourage, Hinder, Obstruct, Impede |
-| 65  | Sluggish    | Moving or proceeding at less than the normal, desirable, or required speed | Leisurely, Lagging, Lax          | Rapid, Swift            |
-| 66  | Averting    | The act or practice of keeping something from happening | Prevention, Avoidance, Divert, Avert | Assistance, Aid        |
-| 67  | Spurt       | A sudden and usually temporary growth of activity | Flurry, Burst                      | Slump, Calm              |
-| 68  | Imperil     | To place in danger                                | Endanger, Threaten                 | Protect, Preserve        |
-| 69  | Chronic     | Being such by habit and not likely to change      | Persistent, Habitual               | Occasional, Intermittent |
-| 70  | Eloquent    | Fluent or persuasive in speaking or writing       | Articulate, Expressive, Persuasive | Inarticulate, Mute       |
-| 71 | Carved (out) | To produce or bring about especially by long or repeated effort         | Developed, Crafted     | Tore down, Destroyed |
-| 72 | Emanate      | To throw or give off                                                      | Emit, Radiate          | Absorb, Take up      |
-| 73 | Electorate   | The body of people qualified to vote in an election                       | Voters, Electors       | Non-voters, Disenfranchised, Apathetic individuals |
-| 74 | Insurgency   | Open fighting against authority (such as one's own government)             | Insurrection, Revolt   | Counterrevolution    |
-| 75 | Discontent   | Having a feeling that one has been wronged or thwarted in one's ambitions | Dissatisfied, Frustrated | Content, Joyous      |
-| 76 | Incumbency   | Something one must do because of a prior agreement                         | Obligation, Duty        | Grace, Relief        |
-| 77 | Disarray     | A state in which everything is out of order                               | Havoc, Chaos            | Order, System        |
-| 78 | Garner       | To receive as a return for effort                                        | Earn, Gain              | Lose, Give           |
-| 79 | Upheaval      | A violent disturbance (as of the political or social order)     | Revolution, Turmoil, Chaos, Mutiny | Grace, Relief        |
-| 80 | Vacuum        | A large empty space                                              | Void, Gap                         | Abundance, Completeness |
-| 81 | Instrumental  | Serving as a crucial means, agent, or tool                       | Essential, Fundamental, Pivotal   | Minor, Trivial       |
-| 82 | Mitigate      | To make more bearable or less severe                             | Alleviate, Relieve, Soothe        | Harm, Impair         |
-| 83 | Unduly        | Beyond a normal or acceptable limit                              | Overly, Excessively               | Moderately, Adequately|
-| 84 | Breach        | A breaking of a moral or legal code                              | Violation, Offense                | Morality, Virtue     |
-| 85 | Explicitly    | So clearly expressed as to leave no doubt about the meaning      | Specific, Express                 | Implicit, Inferred   |
-| 86 | Recourse      | Something that one uses to accomplish an end, especially when the usual means is not available | Opportunity, Resource             | Obstacle, Hindrance  |
-| 87 | Threshold     | An interval of time just before the onset of something           | Verge, Brink                      | Conclusion, End      |
-| 88 | Thrive        | To reach a desired level of accomplishment                       | Flourish, Prosper                 | Fail, Struggle       |
-| 89 | Defer         | To assign to a later time                                        | Postpone, Delay                   | Do, Act              |
-| 90 | Precipitate   | Acting or done with excessive or careless speed                   | Hurried, Rushed                   | Deliberate, Calculated |
-| 91 | Vehement      | Marked by or uttered with forcefulness                           | Emphatic, Vigorous                | Mild, Ambiguous      |
-| 92 | Hankering     | A strong wish for something                                      | Craving, Urge                     | Hatred, Nausea       |
-| 93  | Overshadow    | To make dark, dim, or indistinct                     | Obscure, Blur                     | Illuminate, Lighten            |
-| 94  | Redundant     | Being over what is needed                             | Extra, Surplus, Superfluous       | Inadequate, Sparse, Scant, Meagre |
-| 95  | Nuance        | Sensibility to, awareness of, or ability to express delicate shadings | Sensitivity, Insight              | Ignorance, Stupidity            |
-| 96  | Stagnant      | Not flowing or moving                                | Frozen, Motionless                | Mobile, Moving, Mobility        |
-| 97  | Endure        | To put up with (something painful or difficult)      | Tolerate, Stand                   | Refuse, Reject                  |
-| 98  | Mobility      | Ability or capacity to move                          | Locomotion, Motility              | Inertia, Cessation              |
-| 99  | Platitude     | An idea or expression that has been used by many people | Cliché, Truism                    | Profundity                      |
-| 100 | Peddle        | To sell from place to place usually in small quantities | Peddle, Hawk, Distribute          | Buy, Purchase, Hoard            |
-| 101 | Regressive    | Decreasing in rate as the base increases             | Decremental, Degressive           | Cumulative, Additive            |
-| 102 | Drastic       | Extreme in effect or action                          | Drastic, Severe                   | Moderate, Mild                 |
-| 103 | Extrapolation  | To form an opinion or reach a conclusion through reasoning and information | Derive, Conclusion, Decide, Decision | Guess, Speculation             |
-| 104 | Dictum        | A statement or well-known remark that expresses an important idea, observation, or opinion | Principle, Doctrine               | Misconception, Fallacy          |
-| 105 | Stringent     | Not allowing for any exceptions or loosening of standards | Strict, Rigorous                 | Lax, Flexible                   |
+| 58  | **Transitory**  | Lasts only for a short time                       | Temporary, Flash                   | Eternal, Enduring        |
+| 59  | **Dampen**      | To reduce or weaken in strength or feeling        | Reduce, Diminish, Downcast, Decrease | Enhance, Augment        |
+| 60  | **Persistence** | Uninterrupted or lasting existence                 | Continuation, Endurance            | Cessation, Termination   |
+| 61  | **Adhere (to)** | To give steadfast support to                        | Keep (to), Stick (to or with), Cleave     | Abandon, Take Back       |
+| 62  | **Radical**   | Of the very best kind                              | Wonderful, Excellent               | Terrible, Awful          |
+| 63  | **Bleak**       | Causing or marked by an atmosphere lacking in cheer | Depressing, Somber, Gloomy, Melancholic | Bright, Cheerful      |
+| 64  | **Nudge**       | To try to persuade someone through earnest appeals to follow a course of action | Urge, Encourage                  | Deter, Discourage, Hinder, Obstruct, Impede |
+| 65  | **Sluggish**    | Moving or proceeding at less than the normal, desirable, or required speed | Leisurely, Lagging, Lax          | Rapid, Swift            |
+| 66  | **Averting**    | The act or practice of keeping something from happening | Prevention, Avoidance, Divert, Avert | Assistance, Aid        |
+| 67  | **Spurt **      | A sudden and usually temporary growth of activity | Flurry, Burst                      | Slump, Calm              |
+| 68  | **Imperil**     | To place in danger                                | Endanger, Threaten                 | Protect, Preserve        |
+| 69  | **Chronic**     | Being such by habit and not likely to change      | Persistent, Habitual               | Occasional, Intermittent |
+| 70  | **Eloquent**    | Fluent or persuasive in speaking or writing       | Articulate, Expressive, Persuasive | Inarticulate, Mute       |
+| 71 | **Carved (out)** | To produce or bring about especially by long or repeated effort         | Developed, Crafted     | Tore down, Destroyed |
+| 72 | **Emanate**      | To throw or give off                                                      | Emit, Radiate          | Absorb, Take up      |
+| 73 | **Electorate**   | The body of people qualified to vote in an election                       | Voters, Electors       | Non-voters, Disenfranchised, Apathetic individuals |
+| 74 | **Insurgency**   | Open fighting against authority (such as one's own government)             | Insurrection, Revolt   | Counterrevolution    |
+| 75 | **Discontent**   | Having a feeling that one has been wronged or thwarted in one's ambitions | Dissatisfied, Frustrated | Content, Joyous      |
+| 76 | **Incumbency**   | Something one must do because of a prior agreement                         | Obligation, Duty        | Grace, Relief        |
+| 77 | **Disarray**     | A state in which everything is out of order                               | Havoc, Chaos            | Order, System        |
+| 78 | **Garner**       | To receive as a return for effort                                        | Earn, Gain              | Lose, Give           |
+| 79 | **Upheaval**      | A violent disturbance (as of the political or social order)     | Revolution, Turmoil, Chaos, Mutiny | Grace, Relief        |
+| 80 | **Vacuum**       | A large empty space                                              | Void, Gap                         | Abundance, Completeness |
+| 81 | **Instrumental**  | Serving as a crucial means, agent, or tool                       | Essential, Fundamental, Pivotal   | Minor, Trivial       |
+| 82 | **Mitigate**      | To make more bearable or less severe                             | Alleviate, Relieve, Soothe        | Harm, Impair         |
+| 83 | **Unduly**        | Beyond a normal or acceptable limit                              | Overly, Excessively               | Moderately, Adequately|
+| 84 | **Breach**        | A breaking of a moral or legal code                              | Violation, Offense                | Morality, Virtue     |
+| 85 | **Explicitly**    | So clearly expressed as to leave no doubt about the meaning      | Specific, Express                 | Implicit, Inferred   |
+| 86 | **Recourse**      | Something that one uses to accomplish an end, especially when the usual means is not available | Opportunity, Resource             | Obstacle, Hindrance  |
+| 87 | **Threshold**     | An interval of time just before the onset of something           | Verge, Brink                      | Conclusion, End      |
+| 88 | **Thrive**        | To reach a desired level of accomplishment                       | Flourish, Prosper                 | Fail, Struggle       |
+| 89 | **Defer**         | To assign to a later time                                        | Postpone, Delay                   | Do, Act              |
+| 90 | **Precipitate**   | Acting or done with excessive or careless speed                   | Hurried, Rushed                   | Deliberate, Calculated |
+| 91 | **Vehement**      | Marked by or uttered with forcefulness                           | Emphatic, Vigorous                | Mild, Ambiguous      |
+| 92 | **Hankering**     | A strong wish for something                                      | Craving, Urge                     | Hatred, Nausea       |
+| 93  | **Overshadow**    | To make dark, dim, or indistinct                     | Obscure, Blur                     | Illuminate, Lighten            |
+| 94  | **Redundant**     | Being over what is needed                             | Extra, Surplus, Superfluous       | Inadequate, Sparse, Scant, Meagre |
+| 95  | **Nuance**        | Sensibility to, awareness of, or ability to express delicate shadings | Sensitivity, Insight              | Ignorance, Stupidity            |
+| 96  | **Stagnant**      | Not flowing or moving                                | Frozen, Motionless                | Mobile, Moving, Mobility        |
+| 97  | **Endure**        | To put up with (something painful or difficult)      | Tolerate, Stand                   | Refuse, Reject                  |
+| 98  | **Mobility**      | Ability or capacity to move                          | Locomotion, Motility              | Inertia, Cessation              |
+| 99  | **Platitude**     | An idea or expression that has been used by many people | Cliché, Truism                    | Profundity                      |
+| 100 | **Peddle**        | To sell from place to place usually in small quantities | Peddle, Hawk, Distribute          | Buy, Purchase, Hoard            |
+| 101 | **Regressive**    | Decreasing in rate as the base increases             | Decremental, Degressive           | Cumulative, Additive            |
+| 102 | **Drastic**       | Extreme in effect or action                          | Drastic, Severe                   | Moderate, Mild                 |
+| 103 | **Extrapolation**  | To form an opinion or reach a conclusion through reasoning and information | Derive, Conclusion, Decide, Decision | Guess, Speculation             |
+| 104 | **Dictum**        | A statement or well-known remark that expresses an important idea, observation, or opinion | Principle, Doctrine               | Misconception, Fallacy          |
+| 105 | **Stringent**     | Not allowing for any exceptions or loosening of standards | Strict, Rigorous                 | Lax, Flexible                   |
+| 106 | **Devastating**  | Causing or tending to cause destruction                    | Cataclysmic, Destructive, Horrific | Protective, Creative |
+| 107 | **Deluge**       | A great flow of water or something that overwhelms         | Flood, Torrent                    | Drought, Trickle  |
+| 108 | **Grounded**     | Resting on the shore or bottom of a body of water          | Landed, Stranded                  | Offshore, Afloat  |
+| 109 | **Quiescent**    | Slow to move or act                                        | Sleepy, Inactive, Dormant, Quiet  | Active, Engaged   |
+| 110 | **Conundrum**    | Something hard to understand or explain                     | Mystery, Enigma                   | Solution          |
+| 111 | **Undulate**     | To move or be shaped like waves                             | Oscillate, Fluctuate              | Stagnate          |
+| 112 | **Tempt**        | To lead away from a usual or proper course by offering pleasure or advantage | Lure, Seduce                      | Warn, Alert       |
+| 113 | **Bolster**      | To hold up or serve as a foundation for                     | Prove, Reinforce, Uphold          | Undermine, Weaken |
+| 114 | **Tacit**        | Understood although not put into words                      | Implied, Implicit                 | Explicit, Obvious |
+| 115 | **Boast**        | To praise or express pride in one's own possessions or accomplishments, often to excess | Brag, Vaunt                       | Minimize, Diminish |
+| 116 | **Plague**       | To cause persistent suffering to                            | Afflict, Persecute                | Help, Aid         |
+| 117 | **Conscience**   | One's internal sense of right and wrong                     | Morality, Ethics                  | Immorality        |
+
 
 
 

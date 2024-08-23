@@ -81,7 +81,7 @@ New vocabulary entries are added daily, so check back often to enhance your word
 | 64  | **Nudge**       | To try to persuade someone through earnest appeals to follow a course of action | Urge, Encourage                  | Deter, Discourage, Hinder, Obstruct, Impede |
 | 65  | **Sluggish**    | Moving or proceeding at less than the normal, desirable, or required speed | Leisurely, Lagging, Lax          | Rapid, Swift            |
 | 66  | **Averting**    | The act or practice of keeping something from happening | Prevention, Avoidance, Divert, Avert | Assistance, Aid        |
-| 67  | **Spurt **      | A sudden and usually temporary growth of activity | Flurry, Burst                      | Slump, Calm              |
+| 67  | **Spurt**      | A sudden and usually temporary growth of activity | Flurry, Burst                      | Slump, Calm              |
 | 68  | **Imperil**     | To place in danger                                | Endanger, Threaten                 | Protect, Preserve        |
 | 69  | **Chronic**     | Being such by habit and not likely to change      | Persistent, Habitual               | Occasional, Intermittent |
 | 70  | **Eloquent**    | Fluent or persuasive in speaking or writing       | Articulate, Expressive, Persuasive | Inarticulate, Mute       |

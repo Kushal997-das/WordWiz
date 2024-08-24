@@ -134,7 +134,7 @@ New vocabulary entries are added daily, so check back often to enhance your word
 | 117 | **Conscience**   | One's internal sense of right and wrong                     | Morality, Ethics                  | Immorality        |
 | 118 | **Abysmal** | extending far downward                               | Deep, Profound             | Surface, Superficial            |
 | 119 | **Probe**   | a systematic search for the truth or facts about something | Investigation, Inquiry      | Surface, Ignore                 |
-| 120 | **Loophole**| a means of escape                                    | Evade, Crevice, Breach      | Seal, Patch                     |
+| 120 | **Loophole**| A means of escape                                    | Evade, Crevice, Breach      | Seal, Patch                     |
 | 121 | **Punitive**| inflicting, involving, or serving as punishment       | Correctional, Penal         | Compensatory, Vindicating        |
 | 122 | **Deterrent**| something that makes movement or progress difficult  | Obstacle, Hurdle, Hinder, Barrier | Incentive, Stimulus, Accelerate, Facilitate |
 | 123 | **Attenuated**| lessened or weakened (as in amount, force, or magnitude) | Linear, Elongated           | Wide, Broad                     |

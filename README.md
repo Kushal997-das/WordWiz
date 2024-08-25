@@ -139,6 +139,18 @@ New vocabulary entries are added daily, so check back often to enhance your word
 | 122 | **Deterrent**| something that makes movement or progress difficult  | Obstacle, Hurdle, Hinder, Barrier | Incentive, Stimulus, Accelerate, Facilitate |
 | 123 | **Attenuated**| lessened or weakened (as in amount, force, or magnitude) | Linear, Elongated           | Wide, Broad                     |
 | 124 | **Intrigue**| a secret plan for accomplishing evil or unlawful ends | Conspiracy, Plot            | Disclosure, Openness            |
+| 125 | **Abstain**                  | to choose not to do or have something                 | Refuse, Reject                   | Choose, Determine                 |
+| 126 | **Couch**                    | to convey inappropriate or telling terms              | Say, Express                     | Withhold                 |
+| 127 | **Propound**                 | to set before the mind for consideration               | Propose, Suggest                 | Withdraw, Suppress                |
+| 128 | **Outweigh**                 | to be greater in importance than                       | Exceed, Overshadow               | Underestimate, Diminish           |
+| 129 | **Deteriorate**              | to become worse or of less value                       | Worsen, Crumble                  | Improve, Better                   |
+| 130 | **Played second fiddle** (Idiom) | Your position is less important than theirs in something that you are doing together |                        |                          |
+| 131 | **In the saddle** (Phrase)   | in control                                             |                          |                        |
+| 132 | **Insinuate**                | to convey an idea indirectly                           | Imply, Indicate                  | Declare, Explain                  |
+| 133 | **Lure**                     | to lead away from a usual or proper course by offering some pleasure or advantage | Tempt, Seduce                    | Warn, Alert                       |
+| 134 | **Resentment**               | the feeling of being offended or resentful after a slight or indignity | Anger, Offense                    | Satisfaction, Pacification        |
+| 135 | **Onus**                     | responsibility for wrongdoing or failure               | Blame, Guilt                     | Innocence, Blamelessness          |
+
 
 
 

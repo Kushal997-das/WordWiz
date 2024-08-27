@@ -175,7 +175,6 @@ New vocabulary entries are added daily, so check back often to enhance your word
 <!-- Add more words below this line -->
 
 
-<!-- Add more words below this line -->
 
 
 ---

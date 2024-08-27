@@ -152,7 +152,15 @@ New vocabulary entries are added daily, so check back often to enhance your word
 | 135 | **Onus**                     | Responsibility for wrongdoing or failure               | Blame, Guilt                     | Innocence, Blamelessness          |
 | 136 | **Catalyst**                 | Something that arouses action or activity              | Stimulus, Trigger                | Disincentive                 |
 | 137 | **Redact**                   | To make changes to (something written) so as to remove or obscure information | Delete, Erase                             | Stet                        |
-
+| 138 | **Repugnant** 		     | Causing intense displeasure, disgust, or resentment                      | Disgusting, Ugly                          | Acceptable, Innocuous        |
+| 139 | **Euphemism** 		     | A pleasant word or group of words that is used instead of one that is unpleasant or offensive | Metaphor, Phrase                           | Dysphemism                   |
+| 140 | **Vortex**    		     | Water moving rapidly in a circle with a hollow in the center             | Gulf, Whirlpool                           | N/A                         |
+| 141 | **Conflate**  		     | To turn into a single mass or entity that is more or less the same throughout | Combine, Integrate                        | Separate, Divide             |
+| 142 | **Murky**     	             | Being without light or without much light                               | Darkened, Obscured, Gloomy, Somber, Depressed | Light, Bright               |
+| 143 | **Cognizance**		     | A state of being aware                                                  | Awareness, Attention                      | Disregard, Neglect           |
+| 144 | **Prudence**  		     | A close attentiveness to avoiding danger                                | Carefulness, Caution                      | Recklessness, Brashness      |
+| 145 | **Deferred**  	             | As in delayed                                                             | Prolonged, Sluggish, Delay, Hinder, Obstruct | Immediate, Instant         |
+| 146 | **Balloon**   		     | To become greater in extent, volume, amount, or number                   | Rise, Augment, Increase                   | Decrease, Contract           |
 
 
 

@@ -169,6 +169,16 @@ New vocabulary entries are added daily, so check back often to enhance your word
 | 152 | **Eschew**  		     | To get or keep away from (as a responsibility) through cleverness or trickery | Avoid, Evade         | Seek, Accept             |
 | 153 | **Hotbed**  		     | A place or environment that favors the development of something     | Center, Mecca            | N/A                      |
 | 154 | **Sideline**		     | To treat as unimportant or secondary; to push to the side                                     | Dismiss, Overlook         | Prioritize, Engage        |
+| 155 | **Fuel**     | To power                                        | Generate, Fire                      | Cut, Kill                    |
+| 156 | **Recast**   | To make different in some way                    | Modify, Change                      | Set, Fix                     |
+| 157 | **Entrenched**| Firmly established over time                     | Inherent, Rooted                    | Temporary, Transient         |
+| 158 | **Hound**    | To subject (someone) to constant scoldings and sharp reminders | Urge, Nag                          | Compliment, Recommend        |
+| 159 | **Reticent** | Given to keeping one's activities hidden from public observation or knowledge | Silent, Secretive                   | Open, Communicative          |
+| 160 | **Vehement** | Extreme in degree, power, or effect              | Intense, Ferocious                  | Moderate, Light              |
+| 161 | **Adversary**| One that is hostile toward another               | Enemy, Opponent                     | Friend, Partner              |
+| 162 | **Vulnerable**| Being in a situation where one is likely to meet with harm | Susceptible, Sensitive              | Unexposed, Protected         |
+| 163 | **See through**| Easily seen through                            | Transparent, Crystal                | Opaque, Cloudy               |
+| 164 | **Spate**    | A large number or amount                         | Slew, Loads                         | Handful, Sparkling           |
 
 
 <!-- Add more words below this line -->

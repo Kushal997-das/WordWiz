@@ -163,7 +163,7 @@ New vocabulary entries are added daily, so check back often to enhance your word
 | 146 | **Balloon**   		     | To become greater in extent, volume, amount, or number                   | Rise, Augment, Increase                   | Decrease, Contract           |
 | 147 | **Wrath**                    | An intense emotional state of displeasure with someone or something | Indignation, Fury        | Pleasure, Delight        |
 | 148 | **Dissident**                | Deviating from commonly accepted beliefs or practices              | Dissenting, Maverick     | Orthodox, Conventional   |
-| 149 | **Baleful**                  | Causing or capable of causing harm                                   | Adverse, Detrimental     | Benign, Innocuous        |
+| 149 | **Baleful**                  | Causing or capable of causing harm                                   |  Harmful, Adverse, Detrimental     | Benign, Innocuous        |
 | 150 | **Ruthless**		     | Having or showing a lack of sympathy or tender feelings             | Merciless, Stony         | Sensitive, Warm          |
 | 151 | **Drum up** 		     | To create or think of by clever use of the imagination               | Devise, Construct        | Reproduce, Duplicate     |
 | 152 | **Eschew**  		     | To get or keep away from (as a responsibility) through cleverness or trickery | Avoid, Evade         | Seek, Accept             |

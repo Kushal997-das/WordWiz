@@ -98,7 +98,7 @@ New vocabulary entries are added daily, so check back often to enhance your word
 | 81 | **Instrumental**  | Serving as a crucial means, agent, or tool                       | Essential, Fundamental, Pivotal   | Minor, Trivial       |
 | 82 | **Mitigate**      | To make more bearable or less severe                             | Alleviate, Relieve, Soothe        | Harm, Impair         |
 | 83 | **Unduly**        | Beyond a normal or acceptable limit                              | Overly, Excessively               | Moderately, Adequately|
-| 84 | **Breach**        | A breaking of a moral or legal code                              | Violation, Offense, Infringement                | Morality, Virtue     |
+| 84 | **Breach**        | A breaking of a moral or legal code                              | Violation, Offense                | Morality, Virtue     |
 | 85 | **Explicitly**    | So clearly expressed as to leave no doubt about the meaning      | Specific, Express                 | Implicit, Inferred   |
 | 86 | **Recourse**      | Something that one uses to accomplish an end, especially when the usual means is not available | Opportunity, Resource             | Obstacle, Hindrance  |
 | 87 | **Threshold**     | An interval of time just before the onset of something           | Verge, Brink                      | Conclusion, End      |
@@ -179,6 +179,16 @@ New vocabulary entries are added daily, so check back often to enhance your word
 | 162 | **Vulnerable**| Being in a situation where one is likely to meet with harm | Susceptible, Sensitive              | Unexposed, Protected         |
 | 163 | **See through**| Easily seen through                            | Transparent, Crystal                | Opaque, Cloudy               |
 | 164 | **Spate**    | A large number or amount                         | Slew, Loads                         | Handful, Sparkling           |
+| 165 | **Frenzied**    | being in a state of increased activity or agitation          | Excited, Agitated                      | Calm, Tranquil          |
+| 166 | **Anathema**    | a prayer that harm will come to someone                      | Curse, Ban, Malediction                | Blessing, Benediction   |
+| 167 | **Repercussion**| the power to bring about a result on another                 | Effect, Influence                      | Impotence, Weakness     |
+| 168 | **Ambiguity**   | the quality or state of having a veiled or uncertain meaning | Mysteriousness, Uncertainty            | Clarity, Legibility     |
+| 169 | **Ingrain**     | to cause (as a person) to become filled or saturated with a certain quality or principle | Infuse, Inculcate                     | Deprive, Eliminate, Bereft, Devoid |
+| 170 | **Monogamy**    | the state or custom of being married to only one person at a time | Espousal, Marriage                    | Divorce, Separation     |
+| 171 | **Disparities** | being not of the same kind                                  | Diverse, Distinctive                   | Similar, Parallel       |
+| 172 | **Incompatibility** | the quality or state of being incompatible              | Inconsistency, Incongruity              | Harmony, Agreement      |
+| 173 | **Predicament** | a difficult, puzzling, or embarrassing situation from which there is no easy escape | Dilemma, Pickle                      |                         |
+
 
 
 <!-- Add more words below this line -->

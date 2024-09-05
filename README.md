@@ -180,8 +180,8 @@ New vocabulary entries are added daily, so check back often to enhance your word
 | 163 | **See through**| Easily seen through                            | Transparent, Crystal                | Opaque, Cloudy               |
 | 164 | **Spate**    | A large number or amount                         | Slew, Loads                         | Handful, Sparkling           |
 | 165 | **Frenzied**    | Being in a state of increased activity or agitation          | Excited, Agitated                      | Calm, Tranquil          |
-| 166 | **Anathema**    | a prayer that harm will come to someone                      | Curse, Ban, Malediction                | Blessing, Benediction   |
-| 167 | **Repercussion**| the power to bring about a result on another                 | Effect, Influence                      | Impotence, Weakness     |
+| 166 | **Anathema**    | A prayer that harm will come to someone                      | Curse, Ban, Malediction                | Blessing, Benediction   |
+| 167 | **Repercussion**| The power to bring about a result on another                 | Effect, Influence                      | Impotence, Weakness     |
 | 168 | **Ambiguity**   | the quality or state of having a veiled or uncertain meaning | Mysteriousness, Uncertainty            | Clarity, Legibility     |
 | 169 | **Ingrain**     | to cause (as a person) to become filled or saturated with a certain quality or principle | Infuse, Inculcate                     | Deprive, Eliminate, Bereft, Devoid |
 | 170 | **Monogamy**    | the state or custom of being married to only one person at a time | Espousal, Marriage                    | Divorce, Separation     |

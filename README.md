@@ -184,8 +184,8 @@ New vocabulary entries are added daily, so check back often to enhance your word
 | 167 | **Repercussion**| The power to bring about a result on another                 | Effect, Influence                      | Impotence, Weakness     |
 | 168 | **Ambiguity**   | The quality or state of having a veiled or uncertain meaning | Mysteriousness, Uncertainty            | Clarity, Legibility     |
 | 169 | **Ingrain**     | To cause (as a person) to become filled or saturated with a certain quality or principle | Infuse, Inculcate                     | Deprive, Eliminate, Bereft, Devoid |
-| 170 | **Monogamy**    | the state or custom of being married to only one person at a time | Espousal, Marriage                    | Divorce, Separation     |
-| 171 | **Disparities** | being not of the same kind                                  | Diverse, Distinctive                   | Similar, Parallel       |
+| 170 | **Monogamy**    | The state or custom of being married to only one person at a time | Espousal, Marriage                    | Divorce, Separation     |
+| 171 | **Disparities** | Being not of the same kind                                  | Diverse, Distinctive                   | Similar, Parallel       |
 | 172 | **Incompatibility** | the quality or state of being incompatible              | Inconsistency, Incongruity              | Harmony, Agreement      |
 | 173 | **Predicament** | a difficult, puzzling, or embarrassing situation from which there is no easy escape | Dilemma, Pickle                      |                         |
 

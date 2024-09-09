@@ -98,7 +98,7 @@ New vocabulary entries are added daily, so check back often to enhance your word
 | 81 | **Instrumental**  | Serving as a crucial means, agent, or tool                       | Essential, Fundamental, Pivotal   | Minor, Trivial       |
 | 82 | **Mitigate**      | To make more bearable or less severe                             | Alleviate, Relieve, Soothe        | Harm, Impair         |
 | 83 | **Unduly**        | Beyond a normal or acceptable limit                              | Overly, Excessively               | Moderately, Adequately|
-| 84 | **Breach**        | A breaking of a moral or legal code                              | Violation, Offense                | Morality, Virtue     |
+| 84 | **Breach**        | A breaking of a moral or legal code                              | Violation, Offense, Infringement                | Morality, Virtue     |
 | 85 | **Explicitly**    | So clearly expressed as to leave no doubt about the meaning      | Specific, Express                 | Implicit, Inferred   |
 | 86 | **Recourse**      | Something that one uses to accomplish an end, especially when the usual means is not available | Opportunity, Resource             | Obstacle, Hindrance  |
 | 87 | **Threshold**     | An interval of time just before the onset of something           | Verge, Brink                      | Conclusion, End      |

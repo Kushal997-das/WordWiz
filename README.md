@@ -46,7 +46,7 @@ New vocabulary entries are added daily, so check back often to enhance your word
 | 28      | **Errant**        | Traveling from place to place                         | Nomadic, Peregrine, Vagabond, Ambulant      | Static, Settled         |
 | 29      | **Incendiary**    | Tending to excite political disorder or conflict       | Provocative, Inflammatory                   | Diplomatic, Peaceful    |
 | 30      | **Rebuttal**      | A counterargument or evidence that disproves or contradicts an opposing argument | Counterargument, Refutation, Reply | Support, Evidence          |
-| 31      | **Egregious**     | Very noticeable, especially for being incorrect or bad | Blatant, Obvious                    | Trivial, Slight           |
+| 31      | **Egregious**     | Very noticeable, especially for being incorrect or bad | Blatant, Obvious, Glaring                    | Trivial, Slight           |
 | 32      | **Haven**         | Something that offers cover from the weather or protection from danger | Shelter, Refuge                     | Danger, Peril             |
 | 33      | **Dastardly**     | Having or showing a shameful lack of courage         | Cowardly, Craven, Timid             | Heroic, Daring, Intrepid, Valiant |
 | 34      | **Brazen**        | Displaying or marked by rude boldness                 | Impudent, Bold                      | Timid, Meek, Shy          |

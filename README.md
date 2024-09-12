@@ -188,6 +188,19 @@ New vocabulary entries are added daily, so check back often to enhance your word
 | 171 | **Disparities** | Being not of the same kind                                  | Diverse, Distinctive                   | Similar, Parallel       |
 | 172 | **Incompatibility** | The quality or state of being incompatible              | Inconsistency, Incongruity              | Harmony, Agreement      |
 | 173 | **Predicament** | A difficult, puzzling, or embarrassing situation from which there is no easy escape | Dilemma, Pickle                      |                         |
+| 174 | **Slender**  | being of less than usual width                    | Thin, Narrow                    | Wide, Broad        |
+| 175 | **Compel**   | to cause (a person) to give in to pressure        | Coerce, Obligate                 | Let, Allow         |
+| 176 | **Persecute**| to cause persistent suffering to                   | Plague, Afflict                  | Assist, Aid        |
+| 177 | **Exacerbate**| to make more severe                               | Worsen, Complicate               | Alleviate, Mitigate|
+| 178 | **Vandalism**| deliberate damaging or destroying of another's property | Destruction, Defacement          | Protection, Conservation |
+| 179 | **Tenuous**  | lacking strength, permanence, or resilience       | Fragile, Slight                  | Substantial, Solid |
+| 180 | **Perpetuate**| to give eternal or lasting existence to           | Commemorate, Sustain             | Extinguish, Destroy|
+| 181 | **Rectify**  | to remove errors, defects, deficiencies, or deviations from | Amend, Correct                  | Hurt, Impair       |
+| 182 | **Periphery**| the line or relatively narrow space that marks the outer limit of something | Perimeter, Edge                  | Center, Heart      |
+| 183 | **Deliberation**| a careful weighing of the reasons for or against something | Consideration, Debate           | Short shrift       |
+| 184 | **Envisage** | to imagine or envision                             | Imagine, Envision                | NA |
+| 185 | **Crony**    | a person frequently seen in the company of another| Associate, Colleague             | NA |
+| 186 | **Posture**  | position with regard to conditions and circumstances | Situation, Status               | NA |
 
 
 

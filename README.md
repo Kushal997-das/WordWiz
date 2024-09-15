@@ -201,6 +201,17 @@ New vocabulary entries are added daily, so check back often to enhance your word
 | 184 | **Envisage** | to imagine or envision                             | Imagine, Envision                | NA |
 | 185 | **Crony**    | a person frequently seen in the company of another| Associate, Colleague             | NA |
 | 186 | **Posture**  | position with regard to conditions and circumstances | Situation, Status               | NA |
+| 187 | **Crux**      | the central part or aspect of something under consideration | Essence, Core, Heart, Gist, Kernel        | Periphery, Exterior        |
+| 188 | **Tweak**     | the act of making something slightly different          | Adjustment, Twist, Correction              | Stabilization, Fixation    |
+| 189 | **Iteration** | the act of saying or doing over again                   | Repetition, Repeat                        |    NA                       |
+| 190 | **Vistas**    | all that can be seen from a certain point               | Views, Panoramas                          | Blind spots, Obscurities   |
+| 191 | **Traverse**  | to make one's way through, across, or over              | Cross, Navigate                           | Stay, Remain               |
+| 192 | **Feasibility**| capable of being used or dealt with successfully        | Usefulness, Practicality                  | Imprudence, Unwisdom       |
+| 193 | **Mitigate**  | to make more bearable or less severe                    | Alleviate, Relieve                        | Impair, Exacerbate         |
+| 194 | **Panacea**   | something that cures all ills or problems               | Cure, Elixir                              | Problem, Affliction        |
+| 195 | **Disconcert**| to throw into a state of self-conscious distress        | Embarrass, Fluster                        | Relieve, Comfort           |
+| 196 | **Stuttering**| as in sputtering                                       | Stumbling, Faltering                      | Eloquent, Fluent           |
+
 
 
 

@@ -172,7 +172,7 @@ New vocabulary entries are added daily, so check back often to enhance your word
 | 155 | **Fuel**     		     | To power                                        | Generate, Fire                      | Cut, Kill                    |
 | 156 | **Recast**     		     | To make different in some way                    | Modify, Change                      | Set, Fix                     |
 | 157 | **Entrenched**               | Firmly established over time                     | Inherent, Rooted                    | Temporary, Transient         |
-| 158 | **Hound**    | To subject (someone) to constant scoldings and sharp reminders | Urge, Nag                          | Compliment, Recommend        |
+| 158 | **Hound**    		     | To subject (someone) to constant scoldings and sharp reminders | Urge, Nag                          | Compliment, Recommend        |
 | 159 | **Reticent** | Given to keeping one's activities hidden from public observation or knowledge | Silent, Secretive                   | Open, Communicative          |
 | 160 | **Vehement** | Extreme in degree, power, or effect              | Intense, Ferocious                  | Moderate, Light              |
 | 161 | **Adversary**| One that is hostile toward another               | Enemy, Opponent                     | Friend, Partner              |

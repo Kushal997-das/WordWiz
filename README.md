@@ -211,6 +211,12 @@ New vocabulary entries are added daily, so check back often to enhance your word
 | 194 | **Panacea**   | something that cures all ills or problems               | Cure, Elixir                              | Problem, Affliction        |
 | 195 | **Disconcert**| to throw into a state of self-conscious distress        | Embarrass, Fluster                        | Relieve, Comfort           |
 | 196 | **Stuttering**| as in sputtering                                       | Stumbling, Faltering                      | Eloquent, Fluent           |
+| 197 | **Arduous**    | requiring considerable physical or mental effort     | Rigorous, Difficult, Hard      | Facile, Effortless    |
+| 198 | **Metamorphose** | to change in form, appearance, or use              | Transform, Convert             | Remain, Stabilize     |
+| 199 | **Strained**   | lacking in natural or spontaneous quality            | Exaggerated, Contrived         | Natural, Bona fide     |
+| 200 | **Transgression** | a breaking of a moral or legal code                | Offense, Violation             | Morality, Innocence    |
+| 201 | **Decouple**   | to set or force apart                                 | Separate, Split                | Join, Unite            |
+
 
 
 

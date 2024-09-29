@@ -1,4 +1,9 @@
-# WordWiz 📚✨
+<a href="https://github.com/Kushal997-das/WordWiz/">
+  <img align='center' height="30" src="https://img.shields.io/badge/WordWiz-📚✨-orange.svg?&style=for-the-badge&logo=KD&logoColor=blue" />
+</a> 
+<br>
+<!--# WordWiz 📚✨-->
+<br>
 
 Welcome to **WordWiz**! 🎉 Your go-to repository for expanding your English vocabulary. This project provides a comprehensive collection of vocabulary words, complete with their meanings, synonyms, and antonyms, all organized in a clear and accessible format.
 
